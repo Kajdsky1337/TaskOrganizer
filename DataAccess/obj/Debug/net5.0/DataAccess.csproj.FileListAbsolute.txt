@@ -1,0 +1,16 @@
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\bin\Debug\net5.0\TaskMasterDataBase.db
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\bin\Debug\net5.0\App.config
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\bin\Debug\net5.0\DataAccess.dll.config
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.sourcelink.json
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Mateusz\RiderProjects\TaskMasterAvalonia\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
